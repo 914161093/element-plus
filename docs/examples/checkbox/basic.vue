@@ -1,7 +1,7 @@
 <template>
   <div>
     <el-checkbox v-model="checked1" label="Option 1" size="large" />
-    <el-checkbox v-model="checked2" label="Option 2" size="large" />
+    <el-checkbox v-model="checked1" label="Option 2" size="large" />
   </div>
   <div>
     <el-checkbox v-model="checked3" label="Option 1" />
